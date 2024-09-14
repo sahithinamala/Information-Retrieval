@@ -1,0 +1,20 @@
+Name - Sahithi Namala
+USC ID - 3760715059
+
+
+Note:
+I was assigned Ask search engine but as it was giving 0 similarities Prof. Saty asked me to take search engine of my choice(Bing) in Tuesday’s class (09-10-2024)
+
+
+—————————————————
+
+
+HW1.txt
+
+On comparing Bing and Google queries I found that
+	⁃	The top 10 results from the two(Google and Bing) search engines have an average percentage overlap is 14.3% which indicates a low level similarity.
+	⁃	The average Spearman Coefficient is -3.9263 which indicates that there is a significant difference in ranks of the two search engines.
+	⁃	Both metrics(Overlap percentage and Spearman Coefficient) provide insights into the similarity and order of search engine results.
+	⁃	Finally, I think Google is better than Bing.
+
+
